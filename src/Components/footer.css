@@ -1,0 +1,39 @@
+.footer {
+  background-color: rgb(27, 27, 27);
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-left,
+.footer-right {
+  width: 45%;
+}
+
+.footer h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.footer p {
+  font-size: 14px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.social-links {
+  display: flex;
+}
+
+.social-links a {
+  font-size: 14px;
+  color: #fff;
+  margin-right: 10px;
+  text-decoration: none;
+}
